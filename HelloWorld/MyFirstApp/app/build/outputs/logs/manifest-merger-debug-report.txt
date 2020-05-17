@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Robin\.gradle\caches\transforms-2\files-2.1\0d47a0d6fa5764cd649078b15eaac482\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Robin\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Robin\.gradle\caches\transforms-2\files-2.1\560559a1d2f072346120a8facd149d09\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -31,25 +31,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Robin\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Robin\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Robin\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Robin\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml
-		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml
-		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Robin\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Robin\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.1] C:\Users\Robin\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\AndroidManifest.xml:22:5-89
@@ -70,20 +70,32 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ro
 		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.example.myfirstapp.MainActivity
+activity#com.example.myfirstapp.DisplayMessageActivity
 ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:parentActivityName
+		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:13:13-55
 	android:name
-		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:12:19-57
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:15:13-17:49
+	android:value
+		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:17:17-46
+	android:name
+		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:16:17-63
+activity#com.example.myfirstapp.MainActivity
+ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:20:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:24:27-74
 uses-sdk
 INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml

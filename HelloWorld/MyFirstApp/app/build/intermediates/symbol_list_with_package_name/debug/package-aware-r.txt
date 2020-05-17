@@ -678,6 +678,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id button
 id buttonPanel
 id center
 id center_horizontal
@@ -697,6 +698,7 @@ id default_activity_button
 id dimensions
 id direct
 id disableHome
+id editText
 id edit_query
 id end
 id expand_activities_button
@@ -779,6 +781,7 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textView
 id time
 id title
 id titleDividerNoCustom
@@ -824,6 +827,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_display_message
 layout activity_main
 layout notification_action
 layout notification_action_tombstone
@@ -877,6 +881,8 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string button_send
+string edit_message
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat

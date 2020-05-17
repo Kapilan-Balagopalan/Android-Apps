@@ -11,7 +11,7 @@
 9-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:5:5-19:19
+11-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:5:5-27:19
 12        android:allowBackup="true"
 12-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -25,23 +25,37 @@
 17-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/AppTheme" >
-20-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.example.myfirstapp.MainActivity" >
-21-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:12:19-47
-22            <intent-filter>
-22-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:14:17-69
-23-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:16:17-77
-25-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28    </application>
-29
-30</manifest>
+19        android:theme="@style/AppTheme" >
+19-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity
+20-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:12:9-18:20
+21            android:name="com.example.myfirstapp.DisplayMessageActivity"
+21-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:12:19-57
+22            android:parentActivityName="com.example.myfirstapp.MainActivity" >
+22-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:13:13-55
+23
+24            <!-- The meta-data tag is required if you support API level 15 and lower -->
+25            <meta-data
+25-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:15:13-17:49
+26                android:name="android.support.PARENT_ACTIVITY"
+26-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:16:17-63
+27                android:value=".MainActivity" />
+27-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:17:17-46
+28        </activity>
+29        <activity android:name="com.example.myfirstapp.MainActivity" >
+29-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:20:9-26:20
+29-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:20:19-47
+30            <intent-filter>
+30-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:21:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:22:17-69
+31-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:22:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:24:17-77
+33-->E:\Galaxy\Git-Repository\Android-App-Development\Android-Apps\HelloWorld\MyFirstApp\app\src\main\AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>
